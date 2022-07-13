@@ -1,2 +1,3 @@
 # Tic-Tac-Toe
-Just a fun game to remember your childhood.
+
+Just a fun game to remember your childhood with some extra features.
